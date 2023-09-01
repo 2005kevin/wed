@@ -1,0 +1,10 @@
+h1 {
+    color: black;
+    background-color: blue;
+}
+
+h2 {
+    border: 1px dashed black;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
